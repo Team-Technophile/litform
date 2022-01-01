@@ -1,0 +1,26 @@
+{
+  "name": "earnform",
+  "version": "1.0.0",
+  "description": "A service to create survey forms through which customers can earn incentives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixan198/earnform.git"
+  },
+  "keywords": [
+    "earnform",
+    "survey",
+    "form",
+    "survey",
+    "form"
+  ],
+  "author": "Ashish Chawda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixan198/earnform/issues"
+  },
+  "homepage": "https://github.com/pixan198/earnform#readme"
+}
